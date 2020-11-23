@@ -1,0 +1,78 @@
+[submodule "choco-httpie"]
+	path = choco-httpie
+	url = https://github.com/zverev-iv/choco-httpie
+[submodule "choco-xmplay"]
+	path = choco-xmplay
+	url = https://github.com/zverev-iv/choco-xmplay
+[submodule "choco-thumbs7z"]
+	path = choco-thumbs7z
+	url = https://github.com/zverev-iv/choco-thumbs7z
+[submodule "choco-wincrypthashers"]
+	path = choco-wincrypthashers
+	url = https://github.com/zverev-iv/choco-wincrypthashers
+[submodule "choco-grit7z"]
+	path = choco-grit7z
+	url = https://github.com/zverev-iv/choco-grit7z
+[submodule "choco-lzip7z"]
+	path = choco-lzip7z
+	url = https://github.com/zverev-iv/choco-lzip7z
+[submodule "choco-speedtest-cli"]
+	path = choco-speedtest-cli
+	url = https://github.com/zverev-iv/choco-speedtest-cli
+[submodule "choco-fleet"]
+	path = choco-fleet
+	url = https://github.com/zverev-iv/choco-fleet
+[submodule "choco-gping"]
+	path = choco-gping
+	url = https://github.com/zverev-iv/choco-gping
+[submodule "choco-lazydocker"]
+	path = choco-lazydocker
+	url = https://github.com/zverev-iv/choco-lazydocker
+[submodule "choco-rancher-cli"]
+	path = choco-rancher-cli
+	url = https://github.com/zverev-iv/choco-rancher-cli
+[submodule "choco-smart7z"]
+	path = choco-smart7z
+	url = https://github.com/zverev-iv/choco-smart7z
+[submodule "choco-forensic7z"]
+	path = choco-forensic7z
+	url = https://github.com/zverev-iv/choco-forensic7z
+[submodule "choco-wavpack7z"]
+	path = choco-wavpack7z
+	url = https://github.com/zverev-iv/choco-wavpack7z
+[submodule "choco-modern7z"]
+	path = choco-modern7z
+	url = https://github.com/zverev-iv/choco-modern7z
+[submodule "choco-iso7z"]
+	path = choco-iso7z
+	url = https://github.com/zverev-iv/choco-iso7z
+[submodule "choco-edecoder"]
+	path = choco-edecoder
+	url = https://github.com/zverev-iv/choco-edecoder
+[submodule "choco-asar7z"]
+	path = choco-asar7z
+	url = https://github.com/zverev-iv/choco-asar7z
+[submodule "choco-exfat7z"]
+	path = choco-exfat7z
+	url = https://github.com/zverev-iv/choco-exfat7z
+[submodule "choco-mfilter"]
+	path = choco-mfilter
+	url = https://github.com/zverev-iv/choco-mfilter
+[submodule "choco-7zip-zstd"]
+	path = choco-7zip-zstd
+	url = https://github.com/zverev-iv/choco-7zip-zstd
+[submodule "choco-marp-cli"]
+	path = choco-marp-cli
+	url = https://github.com/zverev-iv/choco-marp-cli
+[submodule "choco-cerebro-es"]
+	path = choco-cerebro-es
+	url = https://github.com/zverev-iv/choco-cerebro-es
+[submodule "choco-vt-cli"]
+	path = choco-vt-cli
+	url = https://github.com/zverev-iv/choco-vt-cli
+[submodule "choco-starter"]
+	path = choco-starter
+	url = https://github.com/zverev-iv/choco-starter
+[submodule "choco-recycle"]
+	path = choco-recycle
+	url = https://github.com/zverev-iv/choco-recycle
